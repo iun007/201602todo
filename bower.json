@@ -1,0 +1,23 @@
+{
+  "name": "201602todo",
+  "description": "",
+  "main": "",
+  "authors": [
+    "guoyongfeng <296512521@qq.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/zhufengnodejs/201602todo",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "./public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "angular": "~1.5.5"
+  }
+}
